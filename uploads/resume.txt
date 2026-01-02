@@ -1,0 +1,22 @@
+Ananya Sharma
+Python Full Stack Developer
+
+Email: ananya.sharma@gmail.com
+Phone: 9123456780
+
+Professional Summary:
+Python Full Stack Developer with 2 years of experience in developing
+web applications using Python, Flask, and SQL.
+
+Technical Skills:
+Python, Flask, SQL, HTML, CSS, Bootstrap, Git
+
+Work Experience:
+Software Engineer – TechNova Solutions
+• Developed REST APIs using Flask
+• Worked with MySQL database
+• Integrated frontend with backend services
+
+Education:
+Bachelor of Technology (B.Tech) in Computer Science
+ABC Institute of Technology

@@ -1,0 +1,22 @@
+Name: Anjali Reddy
+Email: anjali.reddy@email.com
+Phone: 9XXXXXXXXX
+
+Profile Summary:
+Detail-oriented Information Technology graduate with hands-on experience in web development and data analysis. Strong ability to learn quickly and work effectively in teams.
+
+Education:
+B.Tech in Information Technology
+XYZ Institute of Technology, 2024
+
+Technical Skills:
+Python, SQL, HTML, CSS, JavaScript, Pandas, NumPy, Excel, Power BI, Linux
+
+Soft Skills:
+Critical Thinking, Collaboration, Communication, Decision Making, Self-Motivation
+
+Project:
+Student Performance Analysis System
+- Analyzed student data using Python and Pandas
+- Created dashboards using Power BI
+- Presented insights to faculty members

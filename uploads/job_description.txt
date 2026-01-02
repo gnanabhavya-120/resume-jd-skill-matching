@@ -1,0 +1,22 @@
+Job Title: Python Full Stack Developer
+
+Company: Innovatech Solutions Pvt Ltd
+
+Job Description:
+We are looking for a Python Full Stack Developer to design and develop
+web applications using modern technologies.
+
+Required Skills:
+Python, Flask, SQL, HTML, CSS, Bootstrap
+
+Responsibilities:
+• Develop backend services using Python and Flask
+• Build responsive frontend interfaces
+• Work with SQL databases
+• Use Git for version control
+
+Experience Required:
+1–3 years of experience in Python development
+
+Education:
+Bachelor’s degree in Computer Science or related field

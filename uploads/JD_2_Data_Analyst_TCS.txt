@@ -1,0 +1,17 @@
+Job Title: Data Analyst – Fresher
+Company: TCS
+
+Job Description:
+TCS is seeking a Data Analyst (Fresher) who can interpret data and provide actionable insights.
+
+Required Technical Skills:
+Python, SQL, Excel, Power BI, Data Visualization
+
+Soft Skills:
+Analytical Skills, Attention to Detail, Communication, Problem Solving, Teamwork
+
+Responsibilities:
+- Collect and clean data
+- Analyze trends and patterns
+- Prepare reports and dashboards
+- Work with cross-functional teams
